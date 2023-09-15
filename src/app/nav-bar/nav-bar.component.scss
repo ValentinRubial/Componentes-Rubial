@@ -1,0 +1,23 @@
+div{
+   background-color: black;
+   padding: 1em;
+   display: flex;
+   align-items: center;
+   justify-content: end;
+   h1{
+      color: white;
+      font-size: 2.3em;
+      text-decoration: underline;
+   }
+}
+div{
+   display: flex;
+   ul{
+      li{
+         color: white;
+         a{
+            color: white;
+         }
+      }
+   }
+}
